@@ -1,1 +1,1 @@
-Snake game written in Pyhton using the Designer library.
+Snake game written in Python using the Designer library.
